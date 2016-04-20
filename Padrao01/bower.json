@@ -1,0 +1,22 @@
+{
+  "name": "SoftExpert",
+  "description": "Teste Formulario",
+  "main": "main.js",
+  "authors": [
+    "Gabriel Andrade Michalski"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "bootstrap-sass": "^3.3.6"
+  }
+}
